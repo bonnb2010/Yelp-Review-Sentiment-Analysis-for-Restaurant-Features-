@@ -54,16 +54,6 @@ The goal is to help:
 
 ---
 
-## 📁 Folder Structure
-
-yelp-review-analysis/
-├── data/ # Cleaned & raw Yelp datasets
-├── notebooks/ # Jupyter notebooks for EDA, modeling, evaluation
-├── src/ # Python scripts for preprocessing and modeling
-├── outputs/ # Graphs, summary reports, feature importances
-├── yelp-cover.png # Banner image
-├── README.md # This file
-└── requirements.txt # Python dependencies
 
 
 ## 📈 Key Insights
