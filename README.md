@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="./yelp-cover.png" width="600" alt="Yelp Project Banner"/>
-</p>
 
-<h1 align="center">🍽 Yelp Review Analysis: Dietary-Friendly Restaurant Insights</h1>
-
-<p align="center">
-  Identifying what matters most to customers with dietary restrictions through NLP and data analysis.
-</p>
-
----
 
 ## 📊 Overview
 
